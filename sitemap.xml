@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nlpr-sir.github.io/post/</loc>
-    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nlpr-sir.github.io/</loc>
-    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nlpr-sir.github.io/post/welcome/</loc>
-    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nlpr-sir.github.io/publication-type/2/</loc>
     <lastmod>2024-07-08T16:12:05+08:00</lastmod>
   </url><url>
@@ -27,6 +18,9 @@
     <lastmod>2024-07-08T16:12:05+08:00</lastmod>
   </url><url>
     <loc>https://nlpr-sir.github.io/publication/</loc>
+    <lastmod>2024-07-08T16:12:05+08:00</lastmod>
+  </url><url>
+    <loc>https://nlpr-sir.github.io/</loc>
     <lastmod>2024-07-08T16:12:05+08:00</lastmod>
   </url><url>
     <loc>https://nlpr-sir.github.io/tags/</loc>
@@ -46,6 +40,9 @@
   </url><url>
     <loc>https://nlpr-sir.github.io/author/zhenan-sun/</loc>
     <lastmod>2024-07-08T16:12:05+08:00</lastmod>
+  </url><url>
+    <loc>https://nlpr-sir.github.io/post/</loc>
+    <lastmod>2024-07-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nlpr-sir.github.io/post/recent-published-papers-2407/</loc>
     <lastmod>2024-07-08T00:00:00+00:00</lastmod>
@@ -601,6 +598,9 @@
   </url><url>
     <loc>https://nlpr-sir.github.io/author/y.-pourcenoux/</loc>
     <lastmod>2020-09-28T16:12:05+08:00</lastmod>
+  </url><url>
+    <loc>https://nlpr-sir.github.io/post/welcome/</loc>
+    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nlpr-sir.github.io/project/iris-recognition/</loc>
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
